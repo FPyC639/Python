@@ -1,2 +1,1 @@
-# Python
-Python source code.
+Here I would like to showcase my Python Coding skills.
